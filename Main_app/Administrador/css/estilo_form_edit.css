@@ -1,0 +1,156 @@
+/*
+#accordionSidebar{
+    position: fixed;
+    
+}
+
+*/
+#fijar{
+    
+    position: fixed;
+    width: 100%;
+    background-color: rgb(47, 58, 48);
+
+}
+#botonPorte{
+  height: 90px;
+}
+#userDropdown{
+  color: white;
+}
+#pnt{
+  background-color: rgb(229, 235, 235);
+}
+#pnt2{
+  background-color: rgb(206, 235, 235);
+}
+#pnt3{
+  background-color: rgb(206, 235, 235);
+  columns: 1;
+}
+#pnt4{
+ columns: 2;
+ 
+}
+#pnt5{
+  columns: 3;
+ }
+#btn_raya{
+  text-decoration: none;
+}
+
+/* FONDO DE EL FORMULARIO ADMINISTRADOR  */
+#fondo_regis_user{
+  background-color: #44b7af38 ;
+}
+/* Diseño para el formulario de registro de instalación de cámara  */
+#parroquia{
+  margin-top: 2px; 
+  width: 100%;
+  height:52%;
+}
+#institucion_camara{
+  margin-top: 2px;
+  width: 100%;
+  height:52%;
+
+}
+ #btn_cap_coor{
+  
+  width: 100%;
+  height:52%;
+  background-color: rgba(63, 63, 63, 0.945);
+  color: rgb(255, 255, 255);
+  border-bottom: hidden;
+}
+ #photo{
+  
+  width: 180px;
+  height:90px;
+  
+} 
+.hr_foto{
+ background-color: rgb(7, 83, 134);
+}
+
+
+  /* #contenido_actualizar{
+  /* background-color: #44b7af38 ; 
+}   */
+
+#estado_camara{
+  margin-top: 2px;
+  width: 100%;
+  height:52%;
+
+}
+#btn_reg_Cam{
+  margin-right: 18px;
+}
+/* Diseño para el formulario de registro de instalación de Alarmas  */
+/*  .form-label{
+  margin-top: 2px;
+}  */
+/* #parr_stilo{
+  margin-top: 12px;
+} */
+  #parroquia_alarma{
+      
+    width: 100%;
+    height:52%;
+}
+#circuito {
+
+    width: 100%;
+    height:52%;
+  
+}
+#subcircuito{
+  width: 100%;
+  height:52%;
+}
+#tipo_via{
+  width: 100%;
+  height:52%;
+}
+#barrio_sector {  
+  width: 100%;
+  height:52%;
+}  
+#calle_alarma{
+  width: 100%;
+  height:52%;
+}
+#funcionario_responsable{
+  width: 100%;
+  height:52%;
+}
+#estado_alarma{
+  width: 100%;
+  height:52%;
+}
+#color_separ_titu{
+  background-color:rgb(21, 148, 148) ;
+}
+#color2_separ_titu{
+  background-color:rgb(21, 148, 148) ;
+}
+#color3_separ_titu{
+  background-color:rgb(21, 148, 148) ;
+}
+
+/* Diseño para el formulario de registro de instalación de pulsadores  */
+#parroquia_pulsador{
+  width: 100%;
+  height:52%;
+}
+#alarma_id{
+  width: 100%;
+  height:52%;
+}
+#color_separ_titu1{
+  background-color:rgb(21, 148, 148) ;
+}
+.titulo_pulsadores{
+  color: blanchedalmond;
+}
